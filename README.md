@@ -12,7 +12,7 @@ The system captures a live image of the driver using a webcam. It applies **Open
 
 ## 🔁 Workflow
 
-![Workflow Diagram](./17a0d52b-757e-42b8-98d5-0a3dbcce43d7.png)
+![Workflow Diagram](flowchart_.jpg)
 
 1. **Image Detection**  
    Captures live frames of the driver using a webcam with **OpenCV**.

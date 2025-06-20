@@ -30,7 +30,7 @@ The system captures a live image of the driver using a webcam. It applies **Open
 
 ## 📦 Components Used
 
-- Python (OpenCV, Dlib, Keras/TensorFlow)
+- Python (OpenCV, MediaPipe, Keras/TensorFlow)
 - CNN model trained on eye images
 - EAR (Eye Aspect Ratio) formula
 - Arduino Uno or Nano
